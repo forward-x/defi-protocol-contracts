@@ -1,0 +1,19 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+.env
+.env.development
+types
+
+.vscode
+.pytest_cache
+codeForVerify/
+
+failed_test/
+.DS_Store
+~$*
+
+result_test/
